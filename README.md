@@ -1,4 +1,6 @@
 # EWaste-management
+C:\Users\Anusha\Downloads\ewaste> python sample.py
+C:\Users\Anjali\Downloads\ewaste> streamlit run app.py 
 🌱 Waste Classification AI
 A intelligent waste classification system that uses deep learning to categorize waste materials into three environmental categories: Biodegradable, Recyclable, and Non-Recyclable. Built with a Flask backend and Streamlit frontend for seamless user experience.
 
